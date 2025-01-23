@@ -26,3 +26,4 @@ Desenvolva um cronômetro digital utilizando a placa Arduino UNO e displays de 7
  Entregar link para o repositório no GitHub e link para simulação no Tinkercad.
 
 ## Montagem
+![image](https://github.com/jessiicalayanne/Cronometro-com-Multiplicacao-de-Displays-de-7-Segmentos/blob/main/Cron%C3%B4metro%20com%20Displays%20de%207%20Segmentos.png)
